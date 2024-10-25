@@ -3,14 +3,13 @@ import { DataGrid } from "@mui/x-data-grid";
 import axios from "axios";
 import './App.css';
 
+const BASE_URL = 'https://dummyjson.com'
 const columns = [
   { field: "id", headerName: "ID", width: 150 },
   { field: "todo", headerName: "Todo", width: 500 },
   { field: "completed", headerName: "Completed", width: 150 },
   { field: "userId", headerName: "User Id", width: 150 },
 ];
-
-const BASE_URL = 'https://dummyjson.com'
 
 export default function App() {
   const [gridData, setGridData] = useState(null);

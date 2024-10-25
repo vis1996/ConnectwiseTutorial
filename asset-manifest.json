@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vis1996.github.io/ConnectwiseTutorial/static/css/main.b68cc278.css",
-    "main.js": "/vis1996.github.io/ConnectwiseTutorial/static/js/main.af0e1604.js",
-    "static/js/453.d41e1aad.chunk.js": "/vis1996.github.io/ConnectwiseTutorial/static/js/453.d41e1aad.chunk.js",
-    "index.html": "/vis1996.github.io/ConnectwiseTutorial/index.html",
-    "main.b68cc278.css.map": "/vis1996.github.io/ConnectwiseTutorial/static/css/main.b68cc278.css.map",
-    "main.af0e1604.js.map": "/vis1996.github.io/ConnectwiseTutorial/static/js/main.af0e1604.js.map",
-    "453.d41e1aad.chunk.js.map": "/vis1996.github.io/ConnectwiseTutorial/static/js/453.d41e1aad.chunk.js.map"
+    "main.css": "/ConnectwiseTutorial/static/css/main.b68cc278.css",
+    "main.js": "/ConnectwiseTutorial/static/js/main.0be795bd.js",
+    "static/js/453.d41e1aad.chunk.js": "/ConnectwiseTutorial/static/js/453.d41e1aad.chunk.js",
+    "index.html": "/ConnectwiseTutorial/index.html",
+    "main.b68cc278.css.map": "/ConnectwiseTutorial/static/css/main.b68cc278.css.map",
+    "main.0be795bd.js.map": "/ConnectwiseTutorial/static/js/main.0be795bd.js.map",
+    "453.d41e1aad.chunk.js.map": "/ConnectwiseTutorial/static/js/453.d41e1aad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b68cc278.css",
-    "static/js/main.af0e1604.js"
+    "static/js/main.0be795bd.js"
   ]
 }
